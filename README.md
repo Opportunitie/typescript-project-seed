@@ -1,6 +1,6 @@
 # ts-project
 
-> A Vue.js project
+> A Vue.js project(vue2.x+webpack3.x+ts-loader3.x)
 
 ## Build Setup
 
